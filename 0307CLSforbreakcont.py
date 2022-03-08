@@ -139,3 +139,34 @@ for i in l5:
         break
 if ind == False:
     print("List does not contain a prime number")
+    
+#check if list is prime
+#instead of lisr number rangle say 10-20 , print within range , can take range for first for loop DPP
+l5 =[]
+len = int(input("Enter the length of the list : "))
+for x in range(0, len):
+    y = int(input("Eneter element of the list :"))
+    l5.append(y)
+print(l5)
+initial = int(input("Enter Initial index value of range to check "))
+last = int(input("Enter last index value of range to check "))
+ind = True
+for i in range(initial,last+1):
+    z=l5[i]
+    print("i ",i)
+    print("z = l5[i] ",z)
+    if (z == 1):
+        ind = True
+    else:
+        for y in range(2, z): #y=2,3,4......
+            print("y ",y)
+            ind = True
+            if (z % y == 0):
+                print("i%y",(i%y))
+                ind = False
+                break
+    if (ind == True):
+        print("specified range in List contains a prime number")
+        break
+if ind == False:
+    print("specified range in List does not contain a prime number")
