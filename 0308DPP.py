@@ -34,6 +34,15 @@ for i in range(0,len(list1)) :
 print(list1)
 print(list2)
 print(list3)
+
+#alternate 3
+
+
+# List comprehension
+l1=[1,2,3,4,5]
+l2=[x**2 for x in l1] #prints squares automatically
+print('l2',l2)
+
 # Python program to display all the prime numbers within an interval
 #
 
