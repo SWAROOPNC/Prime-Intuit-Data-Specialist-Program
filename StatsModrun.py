@@ -1,0 +1,2 @@
+import StatsModuleProgram
+StatsModuleProgram.StasticsModule()
