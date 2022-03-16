@@ -1,2 +1,0 @@
-import GameGuessCode
-GameGuessCode.GuessGameModule()
