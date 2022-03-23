@@ -38,10 +38,3 @@ print(3 in a)
 b=(2,4,6,8)
 n=int(input("Enter single digit number "))
 print(n in b)
-
-# Program to check whether year is leap year
-y=int (input("enter year"))
-if( (y%4)==0 ):
-    print(" Leap Year")
-else :
-    print("Not Leap Year")
