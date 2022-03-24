@@ -10,11 +10,7 @@ for i in l2 :
         break
 print(" im out of loop1")
 
-#print list using enumerTE
-
-for i in enumerate(l2) :
-    print(i)
-print(" im out of loop2")
+#print list using enumerate also
 
 # continue , to ignore rest of loop statement , move control back to loop , not broke the loop , to skip 1 or more iteration
 for i in l2 :
