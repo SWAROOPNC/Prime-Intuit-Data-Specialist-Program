@@ -47,7 +47,7 @@ def oddeven(a2) :
         print(a2, " is odd ")
         return ("odd")
 oddeven(l)
-
+#calling of function within definition of another function
 #write a program to check if a list contains even number
 b1=[1,3,5,7,8,9,12,]
 b2=[1,11,17,19]
