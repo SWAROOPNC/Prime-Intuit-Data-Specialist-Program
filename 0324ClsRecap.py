@@ -53,6 +53,12 @@ for words in str2 :
 print(str6)
 print(" ".join(str6))
 #print(str6.join(" ")) this is wrong
+from collections import Counter
+countsrt=Counter(str2)
+strfinal = countsrt.keys()
+print(strfinal)
+#can join this and same steps
+
 x = ['apple', 'banana', 'cherry']
 y = enumerate(x)
 #print 0 apple , 1 banana , 3 cherry
