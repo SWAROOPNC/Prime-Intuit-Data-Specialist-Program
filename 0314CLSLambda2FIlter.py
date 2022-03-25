@@ -19,7 +19,7 @@ mtr_km=Trans(0.001,2000,0)
 print(mtr_km)
 #prints 2.0
 #less changed numbers put in ac
-#more often called in x
+#more often called in x , can use this for fah to cel , cel to k
 
 # whwn lambda used with iterables , map , filter and reduce, for more ease of use
 #map will consider input l1 and performs function specified , map ensures for every value in l1
