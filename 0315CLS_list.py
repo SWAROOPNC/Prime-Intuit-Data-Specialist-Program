@@ -1,4 +1,4 @@
-print(lambda x,y : x+[x[-1]+x[-2]]) #takes 2 input and
+print(lambda x,y : x+[x[-1]+x[-2]]) #takes 2 input and # output : <function <lambda> at 0x000001C4202BE040>
 import functools
 from functools import reduce
 lx=[1,2,3,4]
