@@ -1,5 +1,7 @@
 l1=[1,2,3,4,5,6,7,8,9]
 print("l1",l1)
+
+print(l3)
 l2 = (lambda x : x%2 == 0  , l1 )
 print("l2 = (lambda x : x%2 == 0  , l1 )",l2)
 l2 = filter(lambda x : x%2 == 0  , l1 )
@@ -8,6 +10,13 @@ l2 = list(filter(lambda x : x%2 == 0  , l1 ))
 print("l2 = list(filter(lambda x : x%2 == 0  , l1 )) )",l2)
 """l2 = tuple(filter(lambda x : x%2 == 0  , l1 ))
 print("tuple(filter(lambda x : x%2 == 0  , l1 )",l2)""" #works for list , tuple and set too
+
+l2 = list(map(lambda x : x**2 , l1 ))
+print(l2)
+l2 = list(filter(lambda x : x%3 == 0 , l1 ))
+print(l2)
+import functools
+l3 = functools.reduce(lambda x,y : x+y , l1)
 
 l3=map(lambda x:pow(x,3),l1)
 print("l3=map(lambda x:pow(x,3),l1)",l3)
