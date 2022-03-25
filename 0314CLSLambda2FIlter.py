@@ -17,6 +17,8 @@ l2 = list(filter(lambda x : x%3 == 0 , l1 ))
 print(l2)
 import functools
 l3 = functools.reduce(lambda x,y : x+y , l1)
+print(l3)
+
 
 l3=map(lambda x:pow(x,3),l1)
 print("l3=map(lambda x:pow(x,3),l1)",l3)
