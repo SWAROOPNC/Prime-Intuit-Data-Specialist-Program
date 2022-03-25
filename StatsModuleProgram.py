@@ -55,7 +55,7 @@ def StasticsModule() :
     Max = max(ls)
     print("Minimum ",Min)
     print("Maximum ",Max)
-    print("Range/Spread is from ",Min," to ",Max)
+    print("Range is ",Max-Min)
     print("----------------------------------------------------------------")
     #InterQuartileRange
     import math
