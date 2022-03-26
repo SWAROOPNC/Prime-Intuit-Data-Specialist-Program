@@ -1,4 +1,5 @@
 /*; SEMICOLON MUST , COMMA AS SEPERATORS*/
+/* SELECT column1, function_name(column2) FROM table_name WHERE condition GROUP BY column1, column2 HAVING condition ORDER BY column1, column2;*/
 SELECT
     employee_id,
     first_name,
