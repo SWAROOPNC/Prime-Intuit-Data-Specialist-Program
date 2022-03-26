@@ -10,6 +10,9 @@ print(d3)
 d4=dict(zip(d3["Measures"],d3["Values"]))
 print(d4)
 
+#Output {'length': 10, 'width': 20, 'height': 10}
+
+
 print(d1.keys())
 print(d1.values())
 
