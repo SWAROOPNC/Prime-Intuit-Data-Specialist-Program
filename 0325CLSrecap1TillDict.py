@@ -21,7 +21,7 @@ print(d1.get(2)) #same as above , this prefered , to avoid mixing of syntax
 print(d1.__getitem__(2))
 
 print(d1.items()) #all items
-
+#o  dict_items([(1, 'one'), (2, 'two'), (3, 'three')])
 print(len(d1))
 
 d1.update(d2)
