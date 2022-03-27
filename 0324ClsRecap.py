@@ -74,6 +74,7 @@ print(list(y))
 #output [(0, 'apple'), (1, 'banana'), (2, 'cherry')]
 l2=[2,4]
 l2.insert(2,4)
+#2 is index , 4 is value 
 print(l2)
 import random
 l4=[1,2,3,4,5,6,7,8,9]
