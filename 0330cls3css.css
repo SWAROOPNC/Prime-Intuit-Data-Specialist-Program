@@ -1,0 +1,95 @@
+/*.box {
+  width: 350px;
+  height: 150px;
+  margin: 10px;
+  padding: 25px;
+  border: 5px solid black;
+}
+
+
+.box {
+  box-sizing: border-box;
+}
+
+
+html {
+  box-sizing: border-box;
+}
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+*/
+/* compairing both box models*/
+
+.box {
+  border: 5px solid rebeccapurple;
+  background-color: lightgray;
+  padding: 40px;
+  margin: 40px;
+  width: 300px;
+  height: 150px;
+}
+
+.alternate {
+  box-sizing: border-box;
+}
+
+
+/* Changing Margin properties */
+
+.box {
+  margin-top: -40px;
+  margin-right: 30px;
+  margin-bottom: 40px;
+  margin-left: 4em;
+}
+
+
+
+.container {
+  border-top: 5px dotted green;
+  border-right: 1px solid black;
+  border-bottom: 20px double rgb(23,45,145);
+}
+
+.box {
+  border: 1px solid #333333;
+  border-top-style: dotted;
+  border-right-width: 20px;
+  border-bottom-color: hotpink;
+}
+
+.box {
+  padding-top: 0;
+  padding-right: 30px;
+  padding-bottom: 40px;
+  padding-left: 4em;
+}
+
+.container {
+  padding: 20px;
+}
+.a{
+  background-image: url(https://upload.wikimedia.org/wikipedia/commons/8/80/PM_at_First_Meeting_of_Central_Asia_Summit.jpg);
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: right;
+
+}
+.b{
+  background-image: url(https://images.hindustantimes.com/img/2022/03/29/550x309/09e6db42-af8b-11ec-9b52-fa1a8298c8a6_1648577305208.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: 20px 50%;
+  border-top-right-radius: 600px;
+  border-top-left-radius: 600px;
+
+}
+.c{
+  background-image: linear-gradient(90deg, rgba(251,63,228,1) 7%, rgba(251,252,70,1) 84%);
+
+}
+.d{
+  background-image: radial-gradient(circle, rgba(92,251,63,1) 0%, rgba(252,238,70,1) 27%);
+  border-radius: 40px;
+}
