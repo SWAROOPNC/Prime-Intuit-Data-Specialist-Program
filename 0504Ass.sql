@@ -1,6 +1,9 @@
-List all the employees in dept 20. 
-List the employee earning more than Rs 2500; 
-Display all the salesmen 
+--List all the employees in dept 20. 
+select * from employees where department_id = 20;
+--List the employee earning more than Rs 2500;
+select * from employees where salary > 2500;
+--Display all the salesmen 
+select * from employees where job_id = 'SA_MAN';
 List the employees in department 10 and 20. 
 List all the clerks and analyst. 
 List all the employee whose name starts with ‘S’ 
