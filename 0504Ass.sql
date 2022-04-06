@@ -4,8 +4,20 @@ select * from employees where department_id = 20;
 select * from employees where salary > 2500;
 --Display all the salesmen 
 select * from employees where job_id = 'SA_MAN';
-List the employees in department 10 and 20. 
-List all the clerks and analyst. 
+--List the employees in department 10 and 20. 
+select * from employees where department_id in (10,20);
+--List all the clerks and analyst. 
+SELECT DISTINCT
+    ( job_id )
+FROM
+    employees;
+-- no analyst jobid found
+SELECT
+    *
+FROM
+    employees
+WHERE
+    job_id LIKE '%clerk';
 List all the employee whose name starts with ‘S’ 
 List all the employee whose name is having letter ‘L’ as Second character 
 List all the employees whose name is having at least 2 L’s in it 
