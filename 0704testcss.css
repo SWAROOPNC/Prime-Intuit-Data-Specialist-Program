@@ -1,0 +1,143 @@
+h1{
+  color: #428af5;
+  text-align: center;
+  margin: 0 auto;
+}
+div{
+    margin: 0 auto;
+}
+.gridbox{
+  display: grid;
+  grid-template-columns: 50px 100px;
+  grid-template-rows: auto;
+  width: 500px;
+  height: auto;
+}
+.longbox1{
+
+  position: relative;
+  left: 300px;
+  bottom:  0px;
+  height: auto;
+  width: 250px;
+  margin: 0 auto;
+  border: 2px solid #028af2;
+  background-image: url(https://www.primeintuit.com//cdn/settings/Prime_Intuit_--_Final_21.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  grid-column: 2;
+  grid-row: 1/4;
+
+}
+.inbox1{
+  border: 2px solid #028af2;
+  background-color: white;
+  border-radius: 5px ;
+  border-top-style: dotted;
+  border-right: 20px solid #028af2;
+  border-top-right-radius: 30px;
+  border-bottom-right-radius: 10px;
+  height: auto;
+  width: auto;
+  margin: 10px auto;
+  padding: 5px;
+  padding-bottom: 0;
+  margin-bottom: 1px;
+  border-bottom-color: pink;
+}
+.inbox2{
+  border: 2px solid #028af2;
+  background-color: #edeff0;
+  border-radius: 5px ;
+  height: auto;
+  width: auto;
+  margin: 10px auto;
+  padding: 10px;
+}
+.griddiv1{
+
+  border: 2px solid #028af2;
+  background-color: #edeff0;
+  border-radius: 5px ;
+  height: auto;
+  width: 250px;
+  margin: 0 auto;
+  padding: 5px;
+  grid-row: 1;
+  grid-column: 1;
+
+}
+.griddiv2{
+
+  border: 2px solid #028af2;
+  background-color: #edeff0;
+  border-radius: 5px ;
+  height: auto;
+  width: 250px;
+  margin: 10px auto;
+  padding: 5px;
+  grid-row: 2;
+  grid-column: 1;
+
+}
+.griddiv3{
+  border: 2px solid #028af2;
+  background-color: #edeff0;
+  border-radius: 5px ;
+  height: auto;
+  width: 250px;
+  margin: 10px auto;
+  margin-top: 50px;
+  padding: 5px;
+  grid-row: 3;
+  grid-column: 1;
+}
+.benefit{
+  height: auto;
+  width: 250px;
+  margin: 0 auto;
+}
+dl{
+  height: auto;
+  width: 250px;
+  margin: 0 auto;
+}
+dt{
+  position: sticky;
+  background-color: black;
+  color: white;
+  height: auto;
+  width: 250px;
+
+
+  background-color: black;
+
+padding : 10px;
+
+top: 0;
+left: 0;
+margin: 1em 0;
+}
+
+dd{
+  padding-left: 30px;
+  height: auto;
+  width: 250px;
+  margin: 10px auto;
+  padding: 10px;
+}
+.courses{
+  height: auto;
+  width: 250px;
+  margin: 0 auto;
+  padding: 10px;
+  margin-top:-20px;
+}
+.footerdiv{
+  background-image: linear-gradient(90deg, rgba(72,63,251,1) 33%, rgba(70,252,232,1) 72%);
+  height: auto;
+  border: 2px solid black;
+  height: 120px;
+  padding: 5px;
+  width: 600px;
+}
