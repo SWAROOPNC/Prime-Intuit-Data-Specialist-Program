@@ -115,9 +115,6 @@ where some employees works whose manager id within the range 100 and 200. */
 highest salary. */
 /* 14. Write a query to display the employee number and name (first name and last name) for all employees 
 who work in a department with any employee whose name contains a T. */
-/* 15. Write a query to display the employee number, name (first name and last name), and salary for all 
-employees who earn more than the average salary and who work in a department with any employee with a J 
-in their name. */
 /* 16. Display the employee name (first name and last name), employee id, and job title for all employees whose 
 department location is Toronto. */
 /* 17. Write a query to display the employee number, name (first name and last name) and job title for all 
