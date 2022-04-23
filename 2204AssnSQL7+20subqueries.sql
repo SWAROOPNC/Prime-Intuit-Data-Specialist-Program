@@ -113,8 +113,6 @@ salary and 2500. */
 where some employees works whose manager id within the range 100 and 200. */
 /* 12. Write a query to display all the information for those employees whose id is any id who earn the second 
 highest salary. */
-/* 13. Write a query to display the employee name (first name and last name) and hire date for all employees 
-in the same department as Clara. Exclude Clara. */
 /* 14. Write a query to display the employee number and name (first name and last name) for all employees 
 who work in a department with any employee whose name contains a T. */
 /* 15. Write a query to display the employee number, name (first name and last name), and salary for all 
