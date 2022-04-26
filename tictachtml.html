@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+
+    <link rel="stylesheet"
+      type="text/css" href="C:\Users\Admin\Documents\HTML_LEVEL1\tictaccss.css">
+
+    <script src="C:\Users\Admin\Documents\HTML_LEVEL1\tictacjs.js"></script>
+  </head>
+
+    <body>
+    	<div id="div">
+    		<h1>TIC TAC TOE</h1>
+
+    		<!-- Game Instructions -->
+    		<p id="ins">Game starts by just Tap on box <br><br>
+          First Player starts as <b>Player X</b> <br>And<br>
+          Second Player as <b>Player 0 </b>
+    		</p>
+
+    		<br><br>
+    		<!-- 3*3 grid of Boxes -->
+    		<input type="text" id="b1" onclick= "myfunc_1(); check();" >
+    		<input type="text" id="b2" onclick= "myfunc_2(); check();" >
+        <input type="text" id="b3" onclick= "myfunc_3(); check();" >
+    		<br><br>
+
+    		<input type="text" id="b4" onclick= "myfunc_4(); check();" >
+    		<input type="text" id="b5" onclick= "myfunc_5(); check();" >
+    		<input type="text" id="b6" onclick= "myfunc_6(); check();" >
+    		<br><br>
+
+    		<input type="text" id="b7" onclick= "myfunc_7(); check();" >
+    		<input type="text" id="b8" onclick= "myfunc_8(); check();" >
+    		<input type="text" id="b9" onclick= "myfunc_9(); check();">
+
+
+    		<br><br><br>
+
+    		<button id="res" onclick="resfunc()"> RESET </button>
+    		<br><br>
+
+    		<p id="print"></p>
+
+    	</div>
+    </body>
+
+    </html>
