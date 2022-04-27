@@ -1,0 +1,26 @@
+--Self Introduction
+
+--SQL
+1.What do you know about SQL?
+2. WHAT do you know about DDL DML TCL.
+3. WHat is the differnce between delete Truncate and drop
+4. What do you know about joins can you give one example 
+5. What is the difference between inner and right outer join
+6. What is views and triggers.
+
+Unix
+1. How do you create a file
+2. how do you create directory or folders.
+3. How do you copy file
+4. how do you go inside a file.
+
+
+Can you expalin me about SDLC.
+SCenario
+If i am a coder and being a tester you will find a bug while testing?
+Ex The client will tell username should take only alphabets but will see it is taking alphanumeric and you
+will be get into the application. How will you explain to the coding team.
+What do you know about Json file
+
+
+Do you have any questios?
