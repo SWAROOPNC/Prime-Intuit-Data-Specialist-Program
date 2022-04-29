@@ -1,0 +1,18 @@
+Interview Questions
+
+1. Explain  SDLC?
+2. Diffrence between DELETE and TRUNCATE?
+3. Diffrence between TRUNCATE and DROP?
+4. Diffrence between  Primary Key and Unique Key?
+5. Can we use two Primary Key in two?
+6. what is OOPS Concepts? ---> python
+7. types in OOPS Concepts? -------> python
+8. Difference between Sets and Lists?
+9. display the customer_id and the total fare of the each customer?
+10. display the customer _name,taxi-number,from,to ?
+11. how to find the particular chracter in a string?
+12. how to swap the numbers?
+13. Proability of collision?
+14. analytical question
+15. diffrence between overloading and overridding?
+16. how to create existing table in sql with only table structured?

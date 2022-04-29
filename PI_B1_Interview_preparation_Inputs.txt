@@ -1,0 +1,126 @@
+Freshers: 
+
+Not high expectations/new subjects are advantage for you guys/Concepts should be clear/
+
+basic level questions/ after joining they will train you...so don't panic/
+
+revise every thing what all you have learnt/be confident/ if you dont know you just say...i don't know..
+i will learn and do it/
+
+Confidence and attitude/
+
+R u ready to learn ie, orientation to learning is very imp
+
+be humble/modest while answering/
+
+self interest to learn more other than the college academics/
+
+If you do not understand the questions pls ask again...they will repeat the questions
+
+don't stress...relax before the interview ...pray god and face
+
+Attire/dress; backgroud is imp; video and audio is very imp/Noice background....etc.
+
+connect 15/30 mins early...so that you will not get tensed
+
+Introduce yourself: Name/Qualification/place/Skillsets/presently trained at iquebets
+
+================================================================================================================================
+SQL Basics:
+
+DBMS & RDBMS CONCEPTS
+DATA/INFORMATION
+DATABASE --> WHAT AND WHY DATABASE
+CONSTRAINTS  --> Composite Key
+OPERATORS --> PRECEDENCE/DIFF TYPES/
+DISTINCT VALUES 
+DELETE/TRUNCATE --> DIFFERENCE
+SCHEMA ? DATABASE OBJECTS ? CREATE COMMAND REALTED ACTIVITIES ARE DB OBJECTS
+DROP
+COMMIT
+SAVEPOINT
+GROUP FUNCTIONS & GROUPING --> DUPLICATES/DELETE DUPLICATES/ITENTIFY DUPLICATES/
+DDL,DML,TCL 
+SUB QUERIES --> WITH AN EXAMPLE
+JOINS --> Cartesian Join(product),
+Inner(Equi) Join,
+Outer Join - Left Outer Join, Right Outer Join, (ANSI Joins)
+Full Outer Join, 
+Self Join	
+
+how to map 3 tables in a join ?
+
+VIEWS/SYNONYM/TRIGGERS/
+
+what is a Schema ? what are Schema OBJECTS ? 
+
+Functions --> Inbuilt functions/User Defined functions
+================================================================================================================================
+UNIX COMMANDS:
+
+FLAVOURS OF UNIX ARE SOLARIS/AIX/RETHAT LINUX
+
+USER/PASSWORD --> REQD TO CONNECT TO ANY UNIX/LINUX MACHINE
+
+PWD
+COPY
+MOVE
+PROCESS  -- PS command
+LIST
+CREATE DIRECTORY/FILE
+DELETE DIRECTORY/FILE
+GREP 
+CHMOD
+MEMORY--> PRT CONF
+SPACE USAGE --> DF/DU COMMANDS
+FIND
+DELETE
+CD
+KILL COMMAND
+VI EDITOR
+CAT
+WC
+mtime
+=================================================================================================================================
+Python basics
+JAVA Basics
+C & C++
+Academic Projects
+Tarun/Kavya/Sharath --> Will share the complete list of questions asked
+
+UDAY SINGH
+
+=================================================================================================================================
+
+Defining a Null Value
+
+•A null is a value that is unavailable, unassigned, unknown, or inapplicable.
+•A null is not the same as zero or a blank space.
+
+Concatenation Operator
+
+•Concatenates columns or character strings to other columns 
+•Is represented by two vertical bars (||)
+•Creates a resultant column that is a character expression
+
+SQL> SELECT ename||job AS "Employees" FROM emp;
+
+Employees 
+KINGPRESIDENT
+BLAKEMANAGER
+CLARKMANAGER
+JONESMANAGER
+MARTINSALESMAN
+ALLENSALESMAN
+
+
+Dear Sir,
+Due to technical issues, my interview got interupted initially itself.
+So Apoorva Mam told, she will reschedule the slot again.
+Looking forward to the same.
+
+Sorry for the inconvenience caused.
+
+liventus
+
+==========================================================================================================

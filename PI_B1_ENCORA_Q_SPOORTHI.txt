@@ -1,0 +1,13 @@
+Introduce yourself
+1. what is python? features
+2. Datatypes in python
+3. what do you know about OOPS concpet?
+4. Do you know about comphrehention?
+5. what is pickling and unpickling?
+6. list_in =  [[1, 2, 3], [4, 5, 6], [7], [8, 9]]
+list_out= [1,2,3,4,,5,6,7,8,9]
+7. Do you know lambda function and give  an example
+8. what is the difference between append and extend examples and slicing
+9. what is machine learning?
+
+

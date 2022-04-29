@@ -1,0 +1,28 @@
+1) What is inheritance?
+a) please show a program for multiderived inheritance.
+
+2) what is generators in python?
+b) write a code for fabinocci seriers using generators
+
+3) write a code for fabinocci series using recursive function
+
+4) what is mapping function?
+5) what is lambda function?
+
+c) write a code for a list of numbers where only even number should print and by using the mapping and lambda function?
+
+6)what is dictionary and what is normal and ordinary dictorany?
+ d) in1 = {"a": 1, "b": 2, "d": 3}
+in2 = {"a": 5, "c": 4}
+
+out = {"a": 6, "b": 2, "c": 4, "d": 3} using this dictonary merge the elements as output
+
+7) what is sorting?
+ e) without usng the sorting function and any other built in function please print the maximum 2 numbers in the given list
+
+8) There is 100 floor building and there are 2 eggs with you if you drop from the 100th floor what will be the ouput and what assumptions you will make.
+
+9) what are the projects you have undergone in the institue 
+
+10) explain the multiderived class in the inheritance? 
+

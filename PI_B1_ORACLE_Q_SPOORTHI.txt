@@ -1,0 +1,36 @@
+Question No 1: Tell me about yourself
+
+Question No 2: How to find last modified file?
+
+Question No 3: How to find running process file?
+
+Question No 4: How to change the sub directory?
+
+Question No 5: How to copy the content from one file to another file?
+
+Question No 6: How to delete the sub directory?
+
+Question No 7: How to create new directory?
+
+Question No 8: write a program to check whether it is prime number or not?
+
+Question No 9: 
+Write a SQL statement to prepare a list with salesman name, customer name
+ and their cities for the salesmen and customer who belongs to the same city.
+
+
+ salesman_id |    name    |   city   | commission 
+-------------+------------+----------+------------
+        5001 | James Hoog | New York |       0.15
+        5002 | Nail Knite | Paris    |       0.13
+        5005 | Pit Alex   | London   |       0.11
+
+customer_id |   cust_name    |    city    | grade | salesman_id 
+-------------+----------------+------------+-------+-------------
+        3002 | Nick Rimando   | New York   |   100 |        5001
+        3007 | Brad Davis     | New York   |   200 |        5001
+        3005 | Graham Zusi    | California |   200 |        5002
+        3008 | Julian Green   | London     |   300 |        5002
+        3004 | Fabian Johnson | Paris      |   300 |        5006
+
+

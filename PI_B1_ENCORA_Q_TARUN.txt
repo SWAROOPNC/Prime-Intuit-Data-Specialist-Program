@@ -1,0 +1,40 @@
+Python 
+1.how python is it different from other languages?
+
+2. what is the difference between list and tuple ? give an Example ?
+
+3. how to reverse a given number ? eg ; a = [1,2,3,4] expected output: [4,3,2,1]
+
+4. how to find the type of the string ? means ---> type(variable_name)
+
+5. how to convert string into integer and then check the type ?
+
+6. write a program to check the prime number is or not ?
+
+7. write a program of Fibonacci Series of given sequence?
+
+8. how to check the whether it is string or integer using any loop function?
+
+9. what is exception in python and give an example?
+
+
+
+logical question --->
+There are 70 teachers employed with Bulls Eye company, of which 30 are females.
+(1) 30 teachers are married.
+(2) 24 teachers are above 31 years of age.
+(3) 19 married teachers are above 31 years of which 7 are males.
+(4) 12 males are above 31 years of age.
+(5) 15 males are married.
+How many of unmarried females are above 31 years of age?
+
+
+SQL questions:
+
+1. how to find the unique employee_names in the employees table ?
+
+2. how to remove the duplicates from employee_names in the employees table ?
+
+
+ 
+

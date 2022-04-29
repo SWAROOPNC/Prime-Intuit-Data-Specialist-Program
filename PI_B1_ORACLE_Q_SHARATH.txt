@@ -1,0 +1,34 @@
+introduction by myself and my project done in college
+
+IN SQL
+
+what is DDL DML ?
+
+by showing me a example in table find the highest count in the employee with displaying the department name
+
+can you add column to the table and if yes add employee_last_name to the e column
+
+can you create backup of the employee table
+
+what is the difference between primary key and secondary key
+
+what is unique key
+
+what is the difference between unique key and primary key
+
+can primary key can be used as unique key
+
+            UNIX COMMANDS
+
+when process is running how will you stop?
+
+how to find the last modified file in any path(not HISTORY command)
+
+how to find a 'employee' word in a text file
+
+do you know java
+
+            PYTHON
+what is tuple?
+
+in python what all you know?
