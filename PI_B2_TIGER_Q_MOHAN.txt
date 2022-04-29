@@ -1,0 +1,10 @@
+
+
+1.introduction about myself
+2.detailed explanation about project (from the Scratch)
+3.python programs using fuctions
+ 	(factorial)
+	(sum of all the even number)
+	(sum of squre of given number)
+4.ml algorithm explanation (KNN)
+5.difference between boxpolt and line polt with example(senorio)

@@ -1,0 +1,24 @@
+Tiger Analytics 1st interview
+Introduction
+ML any one ML algorithm
+python:
+python program for fabonacci of n numbers
+python program to find substring
+Sql:
+query to find avg saalary
+query to find difference of salary when compared to previous year salary
+probability :
+there are 3 numbers a,b,c all are prime one number exceeds another by 36 and sum of 3 numbers is 100?
+what is proability of getting 5 sundays in 31 days?
+
+Tiger Analytics 2nd interview
+Introduction
+difference between bar, pie and line plot
+statistics:
+scenario based question on gym and helmet 
+python:
+program to find pair of number which sum is 4 in a given list
+program to find maximum occured substring in given string
+probability:
+3 dices are thrown simultaneously what is proability of getting increasing number on each dice?
+probability of getting to wenesday in 30 days?
